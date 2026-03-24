@@ -242,3 +242,5 @@ report it as unresolvable, and continue with the rest.
 - **Language-agnostic assessment.** Apply the standards and idioms
   appropriate to whatever language and framework the project uses.
   Do not impose conventions from one language onto another.
+- **Do not skip files to save time.** Assess every source file, even
+  if the repo is large. Thoroughness is more important than speed.
